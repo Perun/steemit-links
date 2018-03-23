@@ -12,6 +12,7 @@ Wichtige Quellen und Infos rund um [Steemit.com](https://steemit.com) und den Pr
 ## Alternative Oberflächen (Frontends)
 * [Gleiche Blockchain - Verschiedene Anbieter! DTube, Steepshot & Co.](https://steemit.com/dtube/@theaustrianguy/slaqfhjz) – ein Überblick über die verschiedenen Oberflächen und Anbieter auf Steem-Blockchain.
 * [Steembay: Quick Tutorial](https://steemit.com/howto/@steembay/steembay-quick-tutorial) – englischsprachige Anleitung wie man Steembay, einen Marktplatz auf Steem, nutzen kann.
+* [Media Kit für DTube](https://about.d.tube/mediakit.html) – Grafiken und Logos von DTube für die Vorschaugrafik des Videos welches du auf DTube veröfffentlichen möchtest.
 
 ## Steemit-Tools
 
