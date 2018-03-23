@@ -12,6 +12,7 @@ Wichtige Quellen und Infos rund um [Steemit.com](https://steemit.com) und den Pr
 * [Steembay: Quick Tutorial](https://steemit.com/howto/@steembay/steembay-quick-tutorial) – englischsprachige Anleitung wie man Steembay, einen Marktplatz auf Steem, nutzen kann.
 
 ## Tools
+* [SteemWorld](https://steemworld.org) – meiner Meinung nach eines der **wichtigsten** Tools rund um Steem(it). Es liefert tonnenweise Infos über den jeweiligen Account welchen du untersuchst.
 * [Steemdunk](https://steemdunk.xyz) – ein Tool wo man eingeben kann welche Accounts automatisch von dir gevotet werden.
 * [SteemData](https://steemdata.com/stats) – auf SteemDate findet man jede Menge Statistiken über die Steem-Blockchain, wie z. B. die Anzahl der Accounts.
 * [SteemPress](https://wordpress.org/plugins/steempress/) – hierbei handelt es sich um einen WordPress-Plugin, der es dir ermöglich aus deinem Blog heraus auch auf der Steem-Blockchain zu publizieren.
