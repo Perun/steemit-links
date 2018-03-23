@@ -1,5 +1,5 @@
 # Steemit-Links
-Wichtige Quellen und Infos rund um [Steemit.com](https://steemit.com) und den projekten, die mit der Steem-Blockchain zusammenhängen
+Wichtige Quellen und Infos rund um [Steemit.com](https://steemit.com) und den Projekten, die mit der Steem-Blockchain zusammenhängen
 
 ## Allgemeine Tipps und Informationen
 
