@@ -3,6 +3,8 @@ Wichtige Quellen und Infos rund um [Steemit.com](https://steemit.com) und den Pr
 
 ## Allgemeine Tipps und Informationen
 
+* [SteemWiki](https://steemwiki.org/tiki-index.php) – inoffizielles Wiki mit vielen Informationen rund um Steem und Steemit.
+
 ## Richtlinien für Artikel
 
 * [Erster Post: Richtlinien & Tips für de-stem Autoren](https://steemit.com/de-stem/@de-stem/erster-post-richtlinien-and-tips-fuer-de-stem-autoren) – Regeln und Voraussetzungen für Artikel, die sich den wissenschaftlichen Themen widmen.
