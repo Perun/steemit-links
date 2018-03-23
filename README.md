@@ -38,3 +38,7 @@ Tools rund um Steem(it)
 
 * [Aufruf an alle deutschen Steemianer - Wir brauchen ein Steuertool!](https://steemit.com/deutsch/@stehaller/aufruf-an-alle-deutschen-steemianer-wir-brauchen-ein-steuertool)
 * [UTOPIAN.IO: Get the value of you steemit earnings](https://steemit.com/utopian-io/@schererf/utopian-io-get-the-value-of-you-steemit-earnings) – Ein Tool welches deine Einnahmen ausrechnet. Wichtig im Zusammenhang mit dem vorherigen Link.
+
+## Über den telelrand hinaus
+
+* [Smart Media Tokens](https://smt.steem.io) – quasi der "Nachfolgeprojekt" welches ebnfalls auf die Steem-Blockchain aufsetzen soll.
