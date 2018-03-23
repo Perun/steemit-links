@@ -31,6 +31,7 @@ Tools rund um Steem(it)
  * [draw.io](https://www.draw.io) – Online-Tool um Flussdiagramme (Flowcharts) zu erstellen.
  * [Canva](https://www.canva.com/de_de/) – Online-Bildbearbeitung.
  * [Recordit](http://recordit.co) – auf Mac und Windows animierte Gifs erstellen. Falls jemand ein besseres Tool kennt bitte Bescheid geben.
+ * [RoboHash](https://robohash.org) – hiermit kann man kostenlose und frei nutzbare Robotergrafiken erstellen, welche man dann im Artikel oder als Profilgrafik einbinden kann.
 
 ## Das Thema Finanzamt und Steuern
 
