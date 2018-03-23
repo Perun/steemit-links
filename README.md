@@ -15,6 +15,8 @@ Wichtige Quellen und Infos rund um [Steemit.com](https://steemit.com) und den Pr
 * [Steemdunk](https://steemdunk.xyz) – ein Tool wo man eingeben kann welche Accounts automatisch von dir gevotet werden.
 * [SteemData](https://steemdata.com/stats) – auf SteemDate findet man jede Menge Statistiken über die Steem-Blockchain, wie z. B. die Anzahl der Accounts.
 * [SteemPress](https://wordpress.org/plugins/steempress/) – hierbei handelt es sich um einen WordPress-Plugin, der es dir ermöglich aus deinem Blog heraus auch auf der Steem-Blockchain zu publizieren.
+* [Steem Cleaners](https://steemcleaners.org/abuse-report/) – hier kann man Missbrauch und krasses Fehlverhalten melden: Spam, Urheberrechtsverstöße, Scam etc.
+* [Steemit Widgets](https://mktcode.github.io/steemit-widgets/) – diverse Widgets, die du auf deiner Website einbinden kannst.
 
 ## Das Thema Finanzamt und Steuern
 
