@@ -34,6 +34,7 @@ Tools rund um Steem(it)
  * [Canva](https://www.canva.com/de_de/) – Online-Bildbearbeitung.
  * [Recordit](http://recordit.co) – auf Mac und Windows animierte Gifs erstellen. Falls jemand ein besseres Tool kennt bitte Bescheid geben.
  * [RoboHash](https://robohash.org) – hiermit kann man kostenlose und frei nutzbare Robotergrafiken erstellen, welche man dann im Artikel oder als Profilgrafik einbinden kann.
+ * Material Design – von Google entwickeltes designkonzept mit jeder menge Tool, wie z.B. der [Farb-Palette](https://material.io/guidelines/style/color.html) oder dem [Farb-Tool](https://material.io/color/).
 
 ## Das Thema Finanzamt und Steuern
 
