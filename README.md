@@ -24,7 +24,7 @@ Tools rund um Steem(it)
 * [SteemPress](https://wordpress.org/plugins/steempress/) – hierbei handelt es sich um einen WordPress-Plugin, der es dir ermöglich aus deinem Blog heraus auch auf der Steem-Blockchain zu publizieren.
 * [Steem Cleaners](https://steemcleaners.org/abuse-report/) – hier kann man Missbrauch und krasses Fehlverhalten melden: Spam, Urheberrechtsverstöße, Scam etc.
 * [Steemit Widgets](https://mktcode.github.io/steemit-widgets/) – diverse Widgets, die du auf deiner Website einbinden kannst.
-* [Steem Bot Tracker](https://steembottracker.com) – diese Website liefert u.a. Informationen über die Bid-Bots. Somit kann man erkennen welche es gibt und welche sich im momentan lohnen.
+* [Steem Bot Tracker](https://steembottracker.com) – diese Website liefert u. a. Informationen über die Bid-Bots. Somit kann man erkennen welche es gibt und welche sich im momentan lohnen.
 
 ## Allegemeine Tools
  
@@ -34,7 +34,7 @@ Tools rund um Steem(it)
  * [Canva](https://www.canva.com/de_de/) – Online-Bildbearbeitung.
  * [Recordit](http://recordit.co) – auf Mac und Windows animierte Gifs erstellen. Falls jemand ein besseres Tool kennt bitte Bescheid geben.
  * [RoboHash](https://robohash.org) – hiermit kann man kostenlose und frei nutzbare Robotergrafiken erstellen, welche man dann im Artikel oder als Profilgrafik einbinden kann.
- * [Material Design](https://material.io) – von Google entwickeltes Designkonzept mit jeder menge Tool, wie z.B. der [Farb-Palette](https://material.io/guidelines/style/color.html) oder dem [Farb-Tool](https://material.io/color/).
+ * [Material Design](https://material.io) – von Google entwickeltes Designkonzept mit jeder menge Tools, wie z. B. der [Farb-Palette](https://material.io/guidelines/style/color.html) oder dem [Farb-Tool](https://material.io/color/).
 
 ## Das Thema Finanzamt und Steuern
 
