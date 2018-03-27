@@ -36,6 +36,7 @@ Tools rund um Steem(it)
  * [RoboHash](https://robohash.org) – hiermit kann man kostenlose und frei nutzbare Robotergrafiken erstellen, welche man dann im Artikel oder als Profilgrafik einbinden kann.
  * [Material Design](https://material.io) – ein von Google entwickeltes Designkonzept mit jeder menge Tools, wie z. B. der [Farb-Palette](https://material.io/guidelines/style/color.html) oder dem [Farb-Tool](https://material.io/color/).
  * [StackEdit](https://stackedit.io) – ein webbasierter Markdown-Editor mit einigen Extras. Hier ein [kleiner Artikel](https://steemit.com/deutsch/@vladimir-simovic/stackedit-ein-vollwertiger-webbasierter-markdown-editor) darüber, welchen ich verfasst habe.
+ * [CC0-Bilder](https://steemit.com/deutsch/@vladimir-simovic/stackedit-ein-vollwertiger-webbasierter-markdown-editor) – 8 Quellen mit kostenlosen und lizenzfreien Bildern.
 
 ## Das Thema Finanzamt und Steuern
 
