@@ -34,7 +34,8 @@ Tools rund um Steem(it)
  * [Canva](https://www.canva.com/de_de/) – Online-Bildbearbeitung.
  * [Recordit](http://recordit.co) – auf Mac und Windows animierte Gifs erstellen. Falls jemand ein besseres Tool kennt bitte Bescheid geben.
  * [RoboHash](https://robohash.org) – hiermit kann man kostenlose und frei nutzbare Robotergrafiken erstellen, welche man dann im Artikel oder als Profilgrafik einbinden kann.
- * [Material Design](https://material.io) – von Google entwickeltes Designkonzept mit jeder menge Tools, wie z. B. der [Farb-Palette](https://material.io/guidelines/style/color.html) oder dem [Farb-Tool](https://material.io/color/).
+ * [Material Design](https://material.io) – ein von Google entwickeltes Designkonzept mit jeder menge Tools, wie z. B. der [Farb-Palette](https://material.io/guidelines/style/color.html) oder dem [Farb-Tool](https://material.io/color/).
+ * [StackEdit](https://stackedit.io) – ein webbasierter Markdown-Editor mit einigen Extras. Hier ein [kleiner Artikel](https://steemit.com/deutsch/@vladimir-simovic/stackedit-ein-vollwertiger-webbasierter-markdown-editor) darüber, welchen ich verfasst habe.
 
 ## Das Thema Finanzamt und Steuern
 
