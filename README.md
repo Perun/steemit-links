@@ -13,6 +13,7 @@ Wichtige Quellen und Infos rund um [Steemit.com](https://steemit.com) und den Pr
 * [Gleiche Blockchain - Verschiedene Anbieter! DTube, Steepshot & Co.](https://steemit.com/dtube/@theaustrianguy/slaqfhjz) – ein Überblick über die verschiedenen Oberflächen und Anbieter auf Steem-Blockchain.
 * [Steembay: Quick Tutorial](https://steemit.com/howto/@steembay/steembay-quick-tutorial) – englischsprachige Anleitung wie man Steembay, einen Marktplatz auf Steem, nutzen kann.
 * [Media Kit für DTube](https://about.d.tube/mediakit.html) – Grafiken und Logos von DTube für die Vorschaugrafik des Videos welches du auf DTube veröfffentlichen möchtest.
+* [DBooks](https://steemit.com/@dbooks.org) – Oberfläche um Bücher aus seinen Inhalten zu erstellen. Der [Einleitungsartikel](https://steemit.com/writing/@timoshey/say-hello-to-dbooks-a-book-publishing-platform-on-steem-publish-your-books-and-earn).
 
 ## Steemit-Tools
 
